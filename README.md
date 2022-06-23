@@ -1,6 +1,6 @@
 ![GitHubReadME](https://user-images.githubusercontent.com/73635827/175368254-0e1dd3cc-5c6a-478f-a897-090dcb03f986.png)
 <h1></h1>
-<h5 align="center">Full-stack Developer | UX/UI Designer</h5>
+<h4 align="center">Full-stack Developer | UX/UI Designer</h4>
 <h1 align="center">Hi, I'm Ariana <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> <br>
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arianadaris.arianadaris&color=FF8B37" />
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FF708D" />
@@ -31,7 +31,7 @@
 
 
 <h1> </h1>
-<h5 align="center">GitHub Statistics</h5>
+<h4 align="center">GitHub Statistics</h4>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianadaris&theme=tokyonight" />
@@ -39,9 +39,9 @@
 </p>  
 
 <h1></h1>
-<h5 align="center"> Let's get in touch!</h5>
-<h5 align="center">
+<h4 align="center"> Let's get in touch!</h4>
+<h4 align="center">
 <a href="https://www.instagram.com/arianadaris/" target="_blank"><img align="bottom"src="https://img.shields.io/badge/-arianadaris-FF8B37?style=flat-square&logo=Instagram&logoColor=white" align="baseline"/></a>
 <a href="https://www.linkedin.com/in/ariana-rajewski/" target="_blank"><img src="https://img.shields.io/badge/-arianarajewski-FF708D?style=flat-square&logo=Linkedin&logoColor=white&link=" align="baseline" /></a>
 <a href="https://www.arianadaris.com/"><img src="https://img.shields.io/badge/-arianadaris.com-5585FF?style=flat-square&logo=react&logoColor=white&link=https://www.arianadaris.com/" align="baseline" /></a>
-</h5>
+</h4>
