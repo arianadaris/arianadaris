@@ -34,8 +34,8 @@
 <h4 align="center">GitHub Statistics</h4>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianadaris&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=arianadaris&show_icons=true&theme=tokyonight" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianadaris&theme=prussian" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arianadaris&show_icons=true&theme=prussian" /> 
 </p>  
 
 <h1></h1>
