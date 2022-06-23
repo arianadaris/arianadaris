@@ -29,6 +29,14 @@
 - Playing Video Games 👾 I love Minecraft, Animal Crossing, and Stardew Valley.<br>
 -  Making Music 🎤 I'm a singer-songwriter, and my favorite instrument is the piano!<br>
 
+<h1></h1>
+<h4 align="center"> Let's get in touch!</h4>
+<h4 align="center">
+<a href="https://www.instagram.com/arianadaris/" target="_blank"><img align="bottom"src="https://img.shields.io/badge/-arianadaris-FF8B37?style=flat-square&logo=Instagram&logoColor=white" align="baseline"/></a>
+<a href="https://www.linkedin.com/in/ariana-rajewski/" target="_blank"><img src="https://img.shields.io/badge/-arianarajewski-FF708D?style=flat-square&logo=Linkedin&logoColor=white&link=" align="baseline" /></a>
+<a href="https://www.arianadaris.com/"><img src="https://img.shields.io/badge/-arianadaris.com-5585FF?style=flat-square&logo=react&logoColor=white&link=https://www.arianadaris.com/" align="baseline" /></a>
+<a href="https://www.arianadaris.com/"><img src="https://img.shields.io/badge/-arianadaris-5BAF48?style=flat-square&logo=dribbble&logoColor=white&link=https://www.dribbble.com/arianadaris" align="baseline" /></a>
+</h4>
 
 <h1> </h1>
 <h4 align="center">GitHub Statistics</h4>
@@ -37,11 +45,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianadaris&theme=prussian" />
   <img src="https://github-readme-stats.vercel.app/api?username=arianadaris&show_icons=true&theme=prussian" /> 
 </p>  
-
-<h1></h1>
-<h4 align="center"> Let's get in touch!</h4>
-<h4 align="center">
-<a href="https://www.instagram.com/arianadaris/" target="_blank"><img align="bottom"src="https://img.shields.io/badge/-arianadaris-FF8B37?style=flat-square&logo=Instagram&logoColor=white" align="baseline"/></a>
-<a href="https://www.linkedin.com/in/ariana-rajewski/" target="_blank"><img src="https://img.shields.io/badge/-arianarajewski-FF708D?style=flat-square&logo=Linkedin&logoColor=white&link=" align="baseline" /></a>
-<a href="https://www.arianadaris.com/"><img src="https://img.shields.io/badge/-arianadaris.com-5585FF?style=flat-square&logo=react&logoColor=white&link=https://www.arianadaris.com/" align="baseline" /></a>
-</h4>
