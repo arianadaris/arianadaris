@@ -24,10 +24,10 @@
   - Bachelor's degree in Computer Science, concentrated in Software Engineering - <em>Arizona State University, December 2022</em>
   - Associates degree in Arts - <em>Rio Salado Community College, May 2019</em>
 
-💕 <strong>Other Things I Enjoy</strong><br>
-&nbsp;&nbsp;&nbsp;&nbsp;💪 Working Out - I love going to the gym with my friends!<br>
-&nbsp;&nbsp;&nbsp;&nbsp;👾 Playing Video Games - I love Minecraft, Animal Crossing, and Stardew Valley.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;🎤 Making Music - I'm a singer-songwriter, and my favorite instrument is the piano!<br>
+💕 <strong>Other Things I Enjoy</strong> <br>
+- Working Out 💪 I love going to the gym with my friends!<br>
+- Playing Video Games 👾 I love Minecraft, Animal Crossing, and Stardew Valley.<br>
+-  Making Music 🎤 I'm a singer-songwriter, and my favorite instrument is the piano!<br>
 
 
 <h1> </h1>
