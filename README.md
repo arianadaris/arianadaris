@@ -1,4 +1,4 @@
-![GitHubReadME](https://user-images.githubusercontent.com/73635827/175368254-0e1dd3cc-5c6a-478f-a897-090dcb03f986.png)
+![GitHub_README](https://user-images.githubusercontent.com/73635827/175386065-2fcca0f2-31e2-4057-acaf-87b9800b15d3.png)
 <h1></h1>
 <h4 align="center">Full-stack Developer | UX/UI Designer</h4>
 <h1 align="center">Hi, I'm Ariana <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> <br>
