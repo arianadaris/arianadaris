@@ -41,7 +41,7 @@
 <h1></h1>
 <h5 align="center"> Let's get in touch!</h5>
 <h5 align="center">
-<img align="bottom"src="https://img.shields.io/badge/-arianadaris-FF8B37?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/in/arianadaris/" align="baseline"/>
-<img src="https://img.shields.io/badge/-arianarajewski-FF708D?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ariana-rajewski/" align="baseline" />
-<img src="https://img.shields.io/badge/-arianadaris.com-5585FF?style=flat-square&logo=react&logoColor=white&link=https://www.arianadaris.com/" align="baseline" />
+<a href="https://www.instagram.com/in/arianadaris/" target="_blank"><img align="bottom"src="https://img.shields.io/badge/-arianadaris-FF8B37?style=flat-square&logo=Instagram&logoColor=white" align="baseline"/></a>
+<a href="https://www.linkedin.com/in/ariana-rajewski/" target="_blank"><img src="https://img.shields.io/badge/-arianarajewski-FF708D?style=flat-square&logo=Linkedin&logoColor=white&link=" align="baseline" /></a>
+<a href="https://www.arianadaris.com/"><img src="https://img.shields.io/badge/-arianadaris.com-5585FF?style=flat-square&logo=react&logoColor=white&link=https://www.arianadaris.com/" align="baseline" /></a>
 </h5>
