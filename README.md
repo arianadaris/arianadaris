@@ -35,7 +35,7 @@
 <a href="https://www.instagram.com/arianadaris/" target="_blank"><img align="bottom"src="https://img.shields.io/badge/-arianadaris-FF8B37?style=flat-square&logo=Instagram&logoColor=white" align="baseline"/></a>
 <a href="https://www.linkedin.com/in/ariana-rajewski/" target="_blank"><img src="https://img.shields.io/badge/-arianarajewski-FF708D?style=flat-square&logo=Linkedin&logoColor=white&link=" align="baseline" /></a>
 <a href="https://www.arianadaris.com/"><img src="https://img.shields.io/badge/-arianadaris.com-5585FF?style=flat-square&logo=react&logoColor=white&link=https://www.arianadaris.com/" align="baseline" /></a>
-<a href="https://www.arianadaris.com/"><img src="https://img.shields.io/badge/-arianadaris-5BAF48?style=flat-square&logo=dribbble&logoColor=white&link=https://www.dribbble.com/arianadaris" align="baseline" /></a>
+<a href="https://dribbble.com/arianadaris/"><img src="https://img.shields.io/badge/-arianadaris-5BAF48?style=flat-square&logo=dribbble&logoColor=white&link=https://www.dribbble.com/arianadaris" align="baseline" /></a>
 </h4>
 
 <h1> </h1>
