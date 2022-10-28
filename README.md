@@ -6,6 +6,7 @@
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FF708D" />
   <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=FF708D" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=FF708D" />
+  <img src="https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=nextdotjs&logoColor=white&color=5585FF" />
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=5585FF" />
   <img src="https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=5585FF" />
   <img src="https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html&logoColor=white&color=5585FF" />
