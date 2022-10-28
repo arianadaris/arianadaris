@@ -1,6 +1,6 @@
-![GitHub_README](https://user-images.githubusercontent.com/73635827/175386065-2fcca0f2-31e2-4057-acaf-87b9800b15d3.png)
+![LinkedIn_Background](https://user-images.githubusercontent.com/73635827/198717010-6541a8af-77c1-4373-a66d-3ea510ddaf9f.png)
 <h1></h1>
-<h4 align="center">Full-stack Developer | UX/UI Designer</h4>
+<h4 align="center">Developer | Designer | Dog-Lover</h4>
 <h1 align="center">Hi, I'm Ariana <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> <br>
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arianadaris.arianadaris&color=FF8B37" />
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FF708D" />
