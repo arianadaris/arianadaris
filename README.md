@@ -21,15 +21,6 @@
 <br><br>
 </strong>Outside of school, I enjoy learning about <strong>front-end development and UX/UI design.</strong> I’m a people person, and I love that I can use code to get to know people and create something beautiful with them! With front-end development, it’s a gratifying feeling seeing how a few lines of code can make the biggest difference for someone else.</p>
 
-📚 <strong>Education</strong> <br>
-  - Bachelor's degree in Computer Science, concentrated in Software Engineering - <em>Arizona State University, December 2022</em>
-  - Associates degree in Arts - <em>Rio Salado Community College, May 2019</em>
-
-💕 <strong>Other Things I Enjoy</strong> <br>
-- Working Out 💪 I love going to the gym with my friends!<br>
-- Playing Video Games 👾 I love Minecraft, Animal Crossing, and Stardew Valley.<br>
--  Making Music 🎤 I'm a singer-songwriter, and my favorite instrument is the piano!<br>
-
 <h1></h1>
 <h4 align="center"> Let's get in touch!</h4>
 <h4 align="center">
