@@ -2,7 +2,6 @@
 <h1></h1>
 <h4 align="center">Developer | Designer | Dog-Lover</h4>
 <h1 align="center">Hi, I'm Ariana <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> <br>
-  <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arianadaris.arianadaris&color=FF8B37" />
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FF708D" />
   <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=FF708D" />
   <img src="https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=FF708D" />
