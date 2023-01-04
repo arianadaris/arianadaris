@@ -1,4 +1,4 @@
-![LinkedIn_Background](https://user-images.githubusercontent.com/73635827/198717010-6541a8af-77c1-4373-a66d-3ea510ddaf9f.png)
+![LinkedIn_Background](https://user-images.githubusercontent.com/73635827/210620903-1bbf68f9-0682-4927-8e8b-a69f19899516.png)
 <h1></h1>
 <h4 align="center">Developer | Designer | Dog-Lover</h4>
 <h1 align="center">Hi, I'm Ariana <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> <br>
