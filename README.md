@@ -1,6 +1,6 @@
 ![LinkedIn_Background](https://user-images.githubusercontent.com/73635827/210620903-1bbf68f9-0682-4927-8e8b-a69f19899516.png)
 <h1></h1>
-<h4 align="center">Developer | Designer | Dog-Lover</h4>
+<h4 align="center">Developer & Designer</h4>
 <h1 align="center">Hi, I'm Ariana <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"></a> <br>
   <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=FF708D" />
   <img src="https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=FF708D" />
@@ -15,8 +15,8 @@
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=5585FF" />
 </h1>
 
-<h3>I am an impact-driven full-stack developer who is passionate about finding beautiful solutions to not-so-beautiful problems.</h3>
-<p>I'm a senior at Arizona State University, graduating with a <strong>Bachelor's degree in Computer Science with a concentration in Software Engineering. 
+<h3>I am an impact-driven front-end developer and designer who creates engaging experiences for all users with empathy and inclusion in mind.</h3>
+<p>I am a recent graduate from Arizona State University, majored in Computer Science with a concentration in Software Engineering.
 <br><br>
 </strong>Outside of school, I enjoy learning about <strong>front-end development and UX/UI design.</strong> I’m a people person, and I love that I can use code to get to know people and create something beautiful with them! With front-end development, it’s a gratifying feeling seeing how a few lines of code can make the biggest difference for someone else.</p>
 
